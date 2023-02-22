@@ -1,0 +1,52 @@
+< THE SYMBOL TABLE >  simple calender.exe  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+DATA                     	00000     	-5        	SEGMENT   	(ITSELF)  
+INSTRUCTION              	00000     	1         	VAR       	data      
+JAN                      	0009B     	1         	VAR       	data      
+ENDJAN                   	00168     	1         	VAR       	data      
+FEB                      	00169     	1         	VAR       	data      
+ENDFEB                   	00219     	1         	VAR       	data      
+MAR                      	0021A     	1         	VAR       	data      
+ENDMAR                   	002D6     	1         	VAR       	data      
+APR                      	002D7     	1         	VAR       	data      
+ENDAPR                   	0039B     	1         	VAR       	data      
+MAY                      	0039C     	1         	VAR       	data      
+ENDMAY                   	0046D     	1         	VAR       	data      
+JUN                      	0046E     	1         	VAR       	data      
+ENDJUN                   	0052A     	1         	VAR       	data      
+JUL                      	0052B     	1         	VAR       	data      
+ENDJUL                   	005F3     	1         	VAR       	data      
+AUG                      	005F4     	1         	VAR       	data      
+ENDAUG                   	006AC     	1         	VAR       	data      
+SEP                      	006AD     	1         	VAR       	data      
+ENDSEP                   	0076D     	1         	VAR       	data      
+OCT                      	0076E     	1         	VAR       	data      
+ENDOCT                   	0083B     	1         	VAR       	data      
+NOV                      	0083C     	1         	VAR       	data      
+ENDNOV                   	008F4     	1         	VAR       	data      
+DCE                      	008F5     	1         	VAR       	data      
+ENDDCE                   	009B9     	1         	VAR       	data      
+END                      	009BA     	1         	VAR       	data      
+CODE                     	000A7     	-5        	SEGMENT   	(ITSELF)  
+START                    	00000     	-1        	LABEL     	code      
+PJAN                     	00029     	-1        	LABEL     	code      
+PFEB                     	0004A     	-1        	LABEL     	code      
+PMAR                     	0006B     	-1        	LABEL     	code      
+PAPR                     	0008C     	-1        	LABEL     	code      
+PMAY                     	000AD     	-1        	LABEL     	code      
+PJUN                     	000D1     	-1        	LABEL     	code      
+PJUL                     	000F5     	-1        	LABEL     	code      
+PAUG                     	00119     	-1        	LABEL     	code      
+PSEP                     	0013A     	-1        	LABEL     	code      
+POCT                     	0015B     	-1        	LABEL     	code      
+PNOV                     	0017C     	-1        	LABEL     	code      
+PDCE                     	0019D     	-1        	LABEL     	code      
+PEND                     	001BE     	-1        	LABEL     	code      
+CLEAR                    	001E0     	-1        	LABEL     	code      
+COLOR                    	001E6     	-1        	LABEL     	code      
+===================================================================================================
+[ 2/21/2023  --  8:02:57 PM ] 
+< END >
+ 
