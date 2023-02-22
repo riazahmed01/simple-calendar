@@ -18,4 +18,6 @@ The following **required** functionality is completed:
 
 ## Demonstration
 
-<img src='https://imgur.com/a/VNqqyTO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/VNqqyTO.gif
+
+File is too large
