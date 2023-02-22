@@ -17,4 +17,7 @@ The following **required** functionality is completed:
 - [x] User can jump to the ending month of the year.
 
 ## Demonstration
+
 <img src='https://imgur.com/a/VNqqyTO.gif' title='Demonstration' width='' alt='Demonstration' />
+
+<img src='https://media.giphy.com/media/EhFj4ylWJU53npKpbD/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
