@@ -17,4 +17,4 @@ The following **required** functionality is completed:
 - [x] User can jump to the ending month of the year.
 
 ## Demonstration
-<img src='https://imgur.com/a/VNqqyTO' title='Demonstration' width='' alt='Demonstration' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/VNqqyTO" data-context="false" ><a href="//imgur.com/a/VNqqyTO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
