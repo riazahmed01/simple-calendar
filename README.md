@@ -6,7 +6,7 @@ s allows you to skip to the end of the year at any position. I have a instructio
 with adding colors to the calender. When I did add color, I was not able to revert the colors back to the original and the
 color remained in the instruction and end screen. So I decided to add color to all screen.
 
-Time spent: **23** hours spent in total
+Time spent: **13** hours spent in total
 
 ## User Functions
 
